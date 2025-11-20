@@ -1,7 +1,7 @@
 [
 {
     "id": -1,
-    "name": "⠀COMMENTS",
+    "name": "⠀Zikestrike's Comments",
     "cover": "{COVER_URL}/596-uu.png",
     "url": "{CUSTOM_HTML_URL}/596-u.html",
     "author": "gn-math customized a bit by Zikestrike",
@@ -5268,11 +5268,11 @@
   },
   {
     "id": 596,
-    "name": "[!] COMMENTS",
+    "name": "⠀GNmath's Comments",
     "cover": "{COVER_URL}/596-uu.png",
     "url": "{HTML_URL}/596-u.html",
     "author": "gn-math",
-    "authorLink": "https://gn-math.github.io",
+    "authorLink": "https://github.com/gn-math",
     "featured": true,
     "special": [
       "tools"
